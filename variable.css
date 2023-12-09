@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0x;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    overflow-x: hidden;
+}
+
+:root{
+    --neutral-white: #fff;
+    --brand-primary: #4caf4f;
+    --neutral-d-grey: #4d4d4d;
+    --neutral-silver: #f5f7fa;
+    --brand-secondary: #263238;
+    --neutral-grey: #717171;
+}
